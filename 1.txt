@@ -1,0 +1,2 @@
+git . 加入仓库
+git commit -m "first commit" 提交
